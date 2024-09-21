@@ -1,0 +1,5 @@
+What is pip?
+what is module? types?  
+how python runs into the terminal?
+REPL? 
+single line  and multiline comment?
